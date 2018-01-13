@@ -1,0 +1,8 @@
+name: Sync
+main: com.akaiha.sync.Sync
+version: 1.0.0
+load: STARTUP
+depend: [Core]
+prefix: Sync
+author: Akaiha
+description: Server side sync handler.
